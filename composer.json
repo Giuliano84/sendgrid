@@ -1,5 +1,5 @@
 {
-	"name" : "giulianoiacobelli/sendgrid",
+    "name" : "giulianoiacobelli/sendgrid",
     "type": "sendgrid-extension",
     "description": "Yii framework extension for Sendgrid",
     "keywords": ["framework", "web", "sendgrid", "email", "newsletter"],
@@ -9,5 +9,5 @@
             "name": "Giuliano Iacobelli",
             "email": "giuliano.iacobelli@gmail.com"
         }
-    ],
+    ]
 }
